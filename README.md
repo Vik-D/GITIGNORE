@@ -1,0 +1,2 @@
+# GITIGNORE
+My ".gitignore" variant
